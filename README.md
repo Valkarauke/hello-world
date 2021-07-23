@@ -1,2 +1,3 @@
 # hello-world
-Repositorio para aprender 
+Repositorio para aprender. 
+El gato Ptolomeo duerme en el sillon
